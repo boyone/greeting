@@ -1,1 +1,1 @@
-module github.com/boyone/greeting
+module github.com/boyone/greeting/v2
